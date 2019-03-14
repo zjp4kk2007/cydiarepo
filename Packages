@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
 Filename: ./deb/com.aisite.nomoresmallapps_iphoneos-arm.deb
-Size: 2970
+Size: 3028
 MD5sum: 8bf3cab81a71aa26c5640141b24bae83
 SHA1: 9368d3a83fbc8e6f9fe778474c87ce37906ef850
 SHA256: 10522ad66809a1de566067168db967d8c5bb28590ca4054e6a9257e3e7f615a0
